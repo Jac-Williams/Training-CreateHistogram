@@ -1,27 +1,32 @@
 #! <?xml version="1.0" encoding="UTF-8" ?>
 #! <WORKSPACE
 #    Command line to run this workspace:
-#        "C:\Program Files\FME\FME2024-1-2-1\fme.exe" C:\Users\Gavin\Documents\FME\Repositories-Locus\CreateHistogram\CreateHistogram.fmw
+#        "C:\Program Files\FME\fme.exe" C:\Users\Administrator\Documents\FME\Repositories\Training-CreateHistogram\CreateHistogram.fmw
 #          --FME_LAUNCH_VIEWER_APP "YES"
 #    
-#!   A0_PREVIEW_IMAGE="data:image/png;base64,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"
+#!   A0_PREVIEW_IMAGE="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAACTCAIAAAAvPtiBAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4nO3deUAUZf8A8O/sxbmCCF64IsshhQfZ4YmhJKCYllJKlin6qrmSiWJikuWRWkb17g97IbG8Qo20UDnEVbxALAs0FYFd5NgEFRQWWJY95vfH4rIsCyi7sIffz1+zM88z+8w8s999ZuZ5ZgiSJAEhhEwBxdAFQAihJ4UBCyFkMmgan0srZGUVUpIkOshDpwGF6CiB8bO0AG83BoXS9a0gSSgoldaKFHoslVliWIA3m0GjGvKA+feeXHhfCh0e1WbA2op4ns0w8Z9mJwj1a1jrvntwQyABABI6urAVNK6XQy9GtxetO5EKKKmQLJnFdOzdlTZmYxMZn1THtKFaMLCJ2gmCIATljWFvMAc4GmZfJWWI/30g69+HIZOb+eVahYIU3pMumW3bu5fZHpYtLazSCpkyWgEAAR1FaWcnxgBHy+4tV/ezZ9JOXRa/M9WmC3mz8iSODnT2QJPfCT3DoRct9VJD2Ezbnv/qsgrZ3QfyV7yZPf/VBsG0pp2+In7rta4c1SahJRKXVUgNWI6e18eeVlOnkMq7ck5X+UDWrzdd70UyV3a2VImEFEsMcPpcdk82sK9pnw08lb4OtOpHcjO+898SsEiS6PhM0PyIJQoapSuNZ5mcJDtshCINjVKSqsMVwy4jFSA39zNBdSRAYxOY8WUsnc51c7YzAyYwAyZwcvRVHNOSxQmYwAyYwFyRyO88cRl3xfb0J1rnYq4QACA9pnmiE8JEv5isTtI8rilmpynNlfqx+iR7rE3GZ3fXGZWuByxhot9+l9xTF0WnLsaOVh4EidyYRL4w0e/xD5iftFj5Y+YnLW6pcmGin/I3qcqin00xBE9O7qmLSWxeihBAbXuVP4n0mMehPGc7M+ZicxbV5rckW8wVAj9pcXPiIPf8bWr7RJjISSoDKGvet23TAwBAy3ep9r96jTyuKVHEuDZpsjrKax6VqHGsAoDaHmtda4ncmMSzqi3V+67TrH2j33XGpusBq7wE/Ca4qc9J44EfLNoGCVGwKCYLoKyItVH0XsmipDK3kLD5npzciHEgTPTbBgmnNsK2xdxKgDQezAl1a+8rjF9BrE/AhBAIC3cG9e0FAEhbmzw+0Wv/9nRhot+liaLxJesLoNXmK4/atLXJ48PyF05YBGFe+5VNsImxqpW0pSW9cubFGZcWc/9K9GvZ/493b3NNZXGUjUGhRhq1crbNax6VqOVYXZs8/kuI3p6uWWs8mBM6SbWl+t11c0ra1L7R7zpj027A6t2LeG4I1da6g7Phq6Wtf1RBYeHSEmCXLNoGCRHjIOdgSHQoc3+Rt3qa5iOA5cl+nMVZl+Ibmicn90fOi4ISPoDm9gZ92fxnXl4Cg1kwel1SUJvNVyXz5CSEjPNkFxUoj+PR82ZnHkzW+o1a0wd9GTsa3Ae7Q4Xa/ofHu3eQC5SWAYyLPfXlfGV5WqVRK2fbvOZSiW2O1S9jR7O8PNvWWutt0e+u01L7JrDrjIuWgGXPJCLmMeYF0ryGEPOn0T+ay7Cy0JJz9LokWKt5DWv0RO+0E1cLYlsaCAX5NwAAWF4Q6xOTBaMneseHMgMmhAj8p/Xrjg3qcc6hCX68NturRrXJadBq8zs6UlnhUS430pTrd4H4UGZA6HpB+8nT1jIDJvhkukyb1mb/A4BzaFRzTa3dB9rqSFVOrfPB9CtR67GqTrPWHm+pfnfdJacnq33UvpaOoxf/btz+0wMKQaxfYHEoQ8ovV1hZgFgCvZmEXAG19S23WsJm9jGDflgAkHWtZtU8uy7cUtl/QjTAycbWymy75+ld9vVazttMBr2nb19dym0U3iMG99f2l2uOFCT5xw3Rynd6Gbog3UVzaM5ID2p+ibzkLrl2PoNOJZpk5Dc/S2Vy0oNFGTqEcuKCzCClRAghaBuwXPpT8kvkz7OJkrvk4Yym0EDac67EmOE0CxqMcKdJmiAjR2ZpQWg9STQ5unRXsbQA89gJPYNquMYog/4M1ZSCBEN0d+s5mgGrpk5hb0spLJXPnkQZ6UH1GkI9nSM/kiF1tKf0sSP+vCUHgJEedBsrQxRW36y7el5ryQBWP7A3wFATU3X1lmG+l0qBAY4wZKBhvr3nyRUG29U9Q/OP7zpf4TeK+qCGPJgmHepCOZAivf+IrKmDh7XkzoPSh7Wm2mkYn1OI8BgwA5oBq6qGPJ8ri5hn0SSFo2dlEiksfJ3Rz4FSXUvWi021vu/cERw+tLexsVHvaz57NuPChTP4SzB+5eWle3/6oVEsNnRBkE60XFq48Lf8SIZ04gvUiHn08SMpp6/IKqu1D1stKSmurq5STuflXZXL5epLeWuYLGcmy5nD66gA/GItt+vT4+P02f331s1/IteELw6be/16rh5XCwCZZzLefy9kbeSKirv/ai7jceM76InQQuseQHqWn38zesPq998P+fvvPzSXYU2ZDu3XQksrFPtSpF/ua0pMl5VVtjvIvqbmYfSG1SRJFhUVfPftl4TaReziOL+0qaIyoahMGMuO48THcSJ5UBznNz2OD8CPD2ZG8gCAHx/sM9HXL16gWgS8NczpcQX63Uhlwc6d44XMCtz46drSkjv379+7f/+eqOb+vda0tsJkMplGstpH96se3Lt//564USyVSg8l7ps5w/+XIwdlslZ3UasOceJ53OnB3GKA4jj1aS4PAATceF7LHkB68eDBA/Waelh9/2H1/fv374lEtQCQden82yHBmz6PqqsTaWRUVdAFrCkjpnnR/amMGDHK0/P5nw/+dPLEbzHffE9Re/KBoNA7aKnq043NhVHnwS8cEriwKPJgVBBX5LaLw/OPXRIxvxBip2Q0L1q2GpjTRNwiv3CYtkSXkrWjoaHhxz3/u3gh8/nnhwFASYX01qVWT4kpLCyyt7fTyCWRNNrb97a1bbnGXlohzbCjMWjEtWvNTbZ//y2P3rDGzs4+IDBYLeuNzTFe57mwK46//PF0+Jp0rocqgZtyDyxhA3py5eXl2dlZeXnXysvLHjx4QBAEQTT3KKRQKI6OjqqUDx7JCSB62VAqKyuUcxobxbt/iKVQKBuit7Zea3MF7dh09WQy1pSR0ilgAQBnRcSct4MXLlzWf0CrOzFsDy+1vyLv6OWBgoyCVbAoHBK4dYsm+oaM9Pli1ePFApitXLTKM4XtD67+UTPidCyXdp6eXuuiPn9tylRlm+vQqZols7rScfSXU6JXhtvY21I2fvqxQFAIABMnTo5av2nY8JGtE3pHc8NdgdsyzebPgJRy3bfkmSQWiw8cOPDLL0cGDRo0duy42bNnDR7s4uDgQLRfhZevNRIE4TXE4syZU9nZFwDAzc197cefBU19vU1aVWV5YE0ZLV0DFo1G+yUpldLmqVKuSz13OTMXAADM3/4pAIC/ez5r/lWARbuCrwJAXm4+AICr1y1fP48vvTevvQqwiP+l9wJnJgCM/DRXjy0smUxmYWn5/vv/Cf8w0t6+t/5WDHK5rF//AR99tO6tt+dZWHTc2+fG5l3pS6YmF06NXQIcljMTAObuC1fugfgLmfjX3bG8vNzIyMg5c+b+9tvv1tbWT5tdLpNZWlqGhi74KGKdg0OfDtMWYk0ZrZahOdnXxV/srn6SPHGfDLAxqVEp9fWioqLCkSNHacw/ebEuNMimg//n9qhaWAJBkaWl5cCBgzrNUhzHyQDYXDijbGfg036dGfiVV/tucNeH5ty8eTMiYtXevfv69Xu6wYuqFpZY3HDr1j+jRr3SaRaTrim5gjx6RrT4zWdgaI4324ICYJYvgbGxYbaNVtnXxc59qV2IVurYbPenSD0ltmxp56mQBoVC8fHHa3fv3v200UqdlZX1k0SrZlhTxqolYPWyoSx9y+7nVFFjZ8/eTs+us2CYdv9/KgFODjTfF3puCLfr0tjuuI1gKnTpqHbgwAE/v0mDBrH0VpoOmXxNmXWnwFbXsKZNsJ02wbaqRq7LC/tMAoMONpZdP6uVyqCyChqwE+ITa5R0MWN1dfX+/ftOnDjZtewKBTwUwb/3u/jtJkdBgsSsXyaj5aJ7Hztqz5fDtNBp0K8PjiV8Cl0efrxx46dRUVGd3dBoF4UCjvYw0KmL325y5AqwMOuXBJnStXNk/GprazIzT2uMeegahUKxY8cOa2ubyZP9dV+b+amsuJtz+ZKhS9HTMGDppLGxoba2RjldWVnRelAhPz5YOThJo3t0xyM8THv8R17e1QXzQ1av+kAobOeh9E+AJMkLFy7Mnj2bRqNt375dLwUjSVLVd7SuTtTQUK+2sL2agg6rw8A1de4c7915b2z4ZPX9+/cMWY6ehQFLJ0VFBRvWryZJsr6+LnxFmFjcoFpUHBcDXOXgpATYxb3QPMhj48IJqtFIqrEg5jP+g0qhyuXyX39NnDnDf9/e3U1NTU+SS6FQ3L17988//0xM/Hnlyg8DAwNSUlJiYmJWr16t421cFUlj44fhi5T/Lp9GR+bn31QtaqemWqpj2xdtB+u01KOhUKnUxsbGvT/FvznzteTff9VLq9b46dpx9Bk3bJgP283j2LHDl7MvrloVZW3d8opwQSG4Nd8ad3OD/FLw6g8A4Dj2zfmOPrFL2FD8eCzIkvD8dY9Tms34j8qKu5+sXxX7fzFDh3oBQEWV7Pg+mvq9nKqqKhsbGwAgCIJCofTt24/FGuTqyl6+nOPp6amvOKViaWW19uONn0av9fcP7Nev/6hRL6sWtVNToKqOuUV+EzWHVbXUo8GVlBRzli/4eqe7i4srCVBZJUs90PK7lsvlDx488PQcunTp0tGjR3ewHpOAAUtXK8JXvzvvDW/vkWPH+arPVxucxOeD13MAbRobzYN1JsOFyh4pak9iMnstDPtg6bJwS0srADh2tvadqa06jtJotLYDJLrViy++knn21J6EXYd/SVGf/+Q1ZZyDdfo4Oi1fHjHv3YV0Ol2uIH/LFIXNbNVxlEajCYXla9euXbBgYWCg6fWGVYenhLqi0WjxPxxcF/WZxnzXpZ5pzsorI4tgebive/4CZybLd31hf69b85WnEjc270oHXkz1ZKePlYsAwFW11CTJFXIA8PcPOvZbRuTaDb162TEYDAaDQaMxNPRwtFL6aFXUj3t/YTBa3Uhrt6aguToOVTXXVOFUrfVoGHK5nEKhzHwj5PiJs0uWrrCxselgV7NYg3fvTvj+++8NVlw9IfDhc12QfL7uBU/rXjY6/eRMeghIe6qrqzIzT0+f/qZGUEjPrp/xqpWlRU8HqSs3JASA52CdHupunDVVUlKcf+ufKQHB6qGfJCEtq25OoPYBZ0uXLt2xY4e9vX0PFlPP8JSwK1hO9OtFjeNHPvUQXE1mNwTEwaHPrFlzNGYWljZZW0HPRysAYDvTTp5v0DFgARhjTbm4uLq4uGrMvFbY2M+x3QFnzs4Dq6qqTDpgYQurKxQkpGc31NUprCzNfEiA7igEpbpWFvKaraWFYfbVP0VNWXlil4F0qdTMD3WFgpDKyJmTbGjtdP1et27dsmXLhgwZ0qPF0itsYXUFhYCp46yrauSiejP/DeiOQYeBToZ8ydIwd4anC738vowCZv7vYmUJ/Rw6+kVXVNzt169vj5WnO2DA6ro+dtQ+mk8nRcaIQSfYA+mdpzN3tbUiKyudr2MYFN4lROiZ8OjRIxsb045WgAELoWfE6dOnJ02abOhS6AoDFkLPhPT09ICAKYYuha4wYCFk/uRyuVBY3mMPQew+GLAQMn9Xr1594QXNp4SbIgxYCJm/48eTTX0UoRIGLITMnFQqzcrKmjBhgqELogcYsBAyc6mpqUFBUw0y2lzvzGEbEEIdOHBg/7x58wxdCv3AgIWQOSsvL6dSqQMHDjR0QfQDAxZC5mz//v3vvTff0KXQGwxYCJktmUx2+nRGQECAoQuiNxiwEDJbx48fDwqaSqOZzzMO8HlYCJknkiRff336vn37HRwcDF0WvcEWFkLm6cqVK56enuYUrQADFkLmKjb2/zicFYYuhZ5hwELIDBUXFysUCjc3N0MXRM8wYCFkhnbt2rV8OcfQpdA/DFgImZuHDx/eunVz7Nixhi6I/mHAQsjcfP/9rmXLPmjvZV8mDQMWQmaltrb2/Pnz06ZNM3RBugUGLITMSlxc3H/+s8Q8ns3Qlvl0gUUI1dfXnzqVnpaWbuiCdBfzDMMIPZsSEnYvXLiQSm3n1c+mD1tYCJkJsVicnJycmppm6IJ0I2xhIWQm9u79ad68d+l0c37HNQ5+RsgcSCSSadOmpqSkWlhYGLos3QhbWAiZg4MHD7799tvmHa0AW1gImQGpVBoUFHjixEkrKytDl6V7YQsLIZN35MiRmTNnmn20AmxhIWTq5HJ5YGDA778n29jYGLos3Q5bWAiZtqNHfw0MDHoWohVgCwshk6ZQKAIDA3799WivXr0MXZaegC0shEzY8ePHX3311WckWgG2sBAyXSRJTp0a9PPPiWb24PYOYAsLIVOVnp7+yiuvPDvRCrCFhZCJUr7Fa8+eH/v27WvosvQcDFgImZLq6mrlb7axsVEsFvfu3dvQJepR+LQGhEyJVCpVBikmk2noshgABiyETIxEIlEoFJ0mo1KpNBqNIAiCIBobG5/kXIpGo8lksk6TEQShHLRIEERTU5NcLu80C4VCYTAYyixPXv62a8aAhZBpy8nJ+e23Y1QqbeXKlU5OTuqLRCKRpaVlF0ZEP3z48PTpjNu3C6RSqZ1drxdffGnixInqb7UQi8UkSWr0Vq2pqTl+/Hh+fj6TaTt5sv/LL7+svrSuro5Go+k4fgivYSFkSiorK62trZUtlLy8vAEDBiQm/rxy5Uf//PNPZWUli8VydHRU3jekUqlisVgZsBobG2tra7du3SKTyQHIgQMHDhzorIw/Q4cO9fF5QblyVQtr9eqI0NB3RowYwWAwqqurMzMzU1NTfvhhtzIZQRAKhUIZsFQtrMzMzNOnT7/55ps+Pj6PHj1KTk6+ffv2559/rgyXFAqlqalJGbAkEolEJvkk75OR9iMDBwQ6Wjpq3VJlC+tI6ZHC2sI3WG9423kDtrAQMlGlpaVfffWlTCbr378/AHh5eUVErPLxeeHGjX+OHj3WtlVVV1fHZrstWbJEY74yl8bMnJycESNGWFpaWllZVVZWXL9+LT29o+fE37179/TpjC1btio/9unTZ+jQoSkpKVFRUTt37mz7RgwZKYvnxwMAAcSqoatWDF3hwNDeOeOE8ESyMHln/s4xfcZ8PeprDFgImaQTJ04kJOyxsLBQNnBoNFpKSiqNRsvMzMzKypo0aZLWXHv27Dly5Ij6eVVlZeWGDRuioqLUz+/Cwz989dVX6+rqFAr5wIHOK1aEd3xeeezY0bVrP1Z9vHjx4qVLlxITE7/99ptr1675+Pi0l5EEMuZ2TDw//jm753aM3DHKYVR7ybKrsl/lvYodRxEySX5+fqtXRzx8+PDmzZsff7w2LCxMJpPl5eVlZmYOHz5ca5a7d/+9detmWlpauprc3FwPD3ehUKieksFg9O/f383N7e7diiNHjiQlJX3wwfIOCvPXX3/Z2toqp7Ozs3Nycj766CMajbZwYVhhYWGn21Inq/uj6g//M/7BmcEdJJMqpBiwEDIZt27dUk3b2dnV1dU1NTWJxWJHR8eGhnqFQlFXJ+rTp4+lpaXW7GfPnp07N7Tt/LKyMjs7O42ZEomEy/1vfn7+Sy+96ObGDg9fce1aXnsFk8lkykvyly5dOnQoceXKlcoWGYPB6PSGoD3dfoDlAAaFwbZlD6MPa2xs7CAxnhIiZDK+/vrrrVubrxMdPnz4p5/2AkC/fv1eeuklZfeF8eMnWFvbZGVdCggIbJtdJpO/+OKLGjNramoqKyvbdpc/ffr0oEGDZs2azWINGjNmzC+/JM2Z8/bhw0e0Fmz48BFisTg3N/fo0aPfffdf1fzDhw+NGDGygy2a6Txzsdtiq3Irtjc7Nys3bN7CS4MuHj16TGv3fSpBxYCFkGng8/n19XWqj8HBwevWfcxgWNjZ2a1evVqhUHA4nBEjhmdkZCgDWVv+/v5tZ548eXLWrFnqXRaUpkyZ8uOPP3777bc//LC7sbFx4cIFGzd+1l7ZZs2atXnzpr59+27fvl01s7Ky4s8//3z//QVas1CAQqVQvxj5xZ6v95SWlgwaNEggEMjl8vLy8jt37qgCFgEEAPjY+6zzXjfGcQwGLIRMQ0zM12vWRKo+Dh061N//NU9Pz6NHjwJAQUHBm2++yWTaTp/+utZO8FZWViRJJiQkaMy/efPmjh07NGbm5eUOHjx46dKlf/xx5fz5Cw4ODt9//7/2zjQBwNXVddiw4ZWVlSUlJWw2u76+/vLly+fOnfvmm2+1vnaMQWEcGHdguN1wZ2vn6OjomzdvPv/88zk5OY8ePRo0iOXm5qZKGflc5GK3xb59fZUfsR8WQiagoqLigw8+OHbsmHo/LKUzZ84cOnQIADZt2qTs4qCk7MdEp9NpNNrT9nSXSCTHjx8PCQnRmkx5+gkAFhYW6j3dq6urExMT//7779697WfMmOnr66vKQqFQSJKkUql0Ol2Xnu4YsBAyAZs2fT569JjAwMC2Aas9VCpVORoGAPQ+NEfV2nryoTmqjhEYsBAyZw0NDW+8MTMtLZ1CoVRWVj5rT2hQh9ewEDJ2Bw8eDA19R9lfnEaj1dTUGLpEBoMtLISMmvI1E8nJx5+F1w52CjuOImTUUlNTJ0+ejNFKCU8JETJqu3fvjo+PV07XNcDGWHnKBbKs4pk4MbK0gBe8iOhl1IkvNncTw4CFkPG6ffu2o6Oj8ilXMjn4L5Zduf5MhCoAAIKsFxOnL5O8HNmJWNo0XwIwYCFkzPbt2/f+++8rpw+eUFy5TlIoMHm0vK+DjITOOxMYs9p6xSORtIMEcjnRJKUU3rER1VNXbpdP86UBBiyEjFZTU9OVKzlbtmxRfszKJQHgdT/5a2Plw9yt6FTTvgB94rz4H0FDZ6nIfk5Naecci0rJ+w/BqTcGLISMVUpKytSp01Sj/GrqAIDs26fJZyiTRtUc+mdy2o5e1JqKSlE4OkjvV9FrRKRTb8K0gzRCZuznnw++88476nMIAhQkaQbR6qnQaC0nvxiwEDJG5eVldDpdfWxgK1mcgAnMgAnMmCwdv4eftJiTAwCQHjOBkwMAWZwViXzVYmGin85foU8YsBAyRr///ntIyFsdJPDk5J66KIoYBwAgTPR7HGX4SYuZKxLPJi1uDmfCRE5SGUAZNyaRL0z0i0nkxiTy1bK4jfW/cSkLICtZ4AVlZSAsucF2cVNPqVynKjgqM7ZO0HMwYCFkjM6cOfvaa691kKAg1idggl9SGQgT/bZBQhQsiskCKCtibRS9V/I5zJjvyclVhjN1aTyYE+qmnsV5wmwo4eech/fCIPMiv7zEe/y4lpQAAOAWEta8NlXGPXfUE/QcDFgIGZ36+nro7N3OnpzcUxczQ1hQXgLskkXbICFiHOQcDIkOZe4v8m4vV1BYuDO0ygIsT+DFXAKvQeNmsHmL9hd5DVJLqUGVMWyI9gTdDQMWQkYnMzNz8mTtr71pa/RE77QTVwtiFyWVNc8pyL8B/b0g1icmC5xdID6UGRC6XtBulsDx7vsELtOcIXC8+1Xwn6YlDLGa16bKmPZIty3sKhz8jJDRWbnyww8/XKn+4E0AmBspP5IuD5stXvym5gsjTFFypvg6v/pJUl690etupWXhSZr7YOzWgJDxuXOnRCNaISUMWAgZF4lEYmNjbehSGCns6Y6QcSkrK3N1Zbe3tFEC126bxWUcktqFTBiwEDIuDQ0NbV9rquLYG+YEmUNP97N/UK4LOk+mAU8JETIuFApFKm3qNFlDQ30PFMbYYMBCyLh4eHiov5JeK5lM9nFk+MbotVVVD7Qs5nHjlY0XHify68fTzfjFT9+uMR4YsBAyLhYWFtbWNtnZ2R2kkcvlIlHtnj3fh8wKSE1J7uDdXKJ/8wEAgB8fzIzk8eODfSb6+sULoDjOj7UmXZmGt4YZyUuPj+MXx3Hi4ziRPGViKI7jxPO409ekg4A7PZhbrM+t7CK8hoWQ0dm6deuyZcucnJwcHR2HDHFRziy9qWCIFPlXpfv2WslksnJhGQAUFRUuXfJu8PQ3Nm7c3n/AwMcryN/sy9wMAADBc+cDAG/NIuCKvmIDwPxCiJ2S4RcOCWVTY1hr4LzHtrSpoqBU5jceuVPgxubCqLIpRTyuyG0XJ8vjxuYYr/MRyaxwr/Nc2BXH/2pp93a2YNChqaOH+mHAQsj4ODk5JSUlFRcXX76cbWNjq5zJsFQoKApL6yZHR2upVMqgN78klcFg9O7dx8bWVm0FXtEXREvYADzOshQAAP+dCfxg5vQZuSfcAQAEhd6rdroBRESnpmTD7OX+4OqfxI8DAO/o5YHFGX4LNoWM9Pki1AOiueGuwI2OCHdlp3t02/aOG0EdN5JGIUgAsLMhxBJIy5b+eUvLy1YxYCFkjAiCYLPZbHZL/4bEi3JZoXzIc+JpwXYSieTY0UMA8NJLo9dFfT56zPiO18Zb47M5F0bOAHD1uuXr5/Gl92ZnJgDM3Sf6CjjT4/irCkOSPXKnAACAoPAqAOTl5ofO6LbNU0OjElQqcA9LJI/vNFgwYDvH8naJRNSg2YEDh+YgZBqUQ3M+fE/8+TI7mUy28dNIZ2dW2KJllpa69jItjvPbBbMBpnX3GZ+6s3/IEn6vfN2XNsyNAgA5/yhu3ZHL5DDRh+ozlGrPJLYkSCqrSWg9NAdbWAiZHhqNFv3pNktLSz2si8eZuOkq+Mw+f9IAg4GOX5AdvwAEAWGv03086XfuKs5elR87Jwt7na41PQYshEySfqIVAPjHlglj9bOqLrGzBQpB0GjEC0Mpd+4qqms7OufDgIWQKakVwalsc7iMU3q3eSt6MyljR1B+PN60P4WQtts9o7kRe9QAAAWMSURBVBkGLIRMSS8mBIw1j6E5ROZfzdNUCtEkhSZp54EYO44ihEwGBiyETM+dO4Kpgb7//e6rRrG4uJifnnZCKCw1dKG6SNRAug6g0GktzUYLBrD6UeobtSTGgIWQ6amvqwt5a+6kya99//13Zy6n/6f63YsXz7VKweOwnJksZ6Zq/M3TEfAfD8Thx695gkE5LemfWlUNeT5XFr2YEbWAsWgm/ZOFFusXWqRfltW16YQFGLAQMl3Dh79QUH3zxO3famk1h3P3r96yvHmBgDs9dUaZUFQmFJXtDAQeh7UmHQTcyLj0+GC/eAG0mgZoTqCcCOZeiPNj+fqExylf4VVUKMrfpZYxnpce6czhCbiRcXwAfnxcenGr9F1x7i/5p/+T7EpqSsuScX+RbIyTZF2Ta02JF90RMmEPau8/Yj0EgLuUf5k1zU/RKs7In7E8vHk6zm9iYVTZ1OTpu2rzEn+NvhAFGXxwzz+0qXm6GBYpEyxbve0kEVV2MhAEEO2eucQfAAAEBR6esHnTNlXGzfPzfxLO4K/J8ljuBpAO4O46ZXZLeh3U1EFNXSfX3bGFhZCpqq2tmTVm7ltO7wDAiudXx2850DaNAGaf3xkIrl7jyVd+EmYugQJwdysu8lJNCwqvQmIIK3XGW56zz+8MBAAoBnBtzl6ckV8l8WqdMdZfUFBFOrqxAXjJhe5u6um7GwYshEwPlUrNyEjdumXD2HG+Lw8b80XT1yNHvmBhYaFc6rp0RqEvk+XMZAVzGfDrRGcmKxxcPIENzcFIAC3TbI8XlbnY8OtEZ+b0OH5x0a+bw5uvWwkKwaKPRsb0yHBwIdYvcGay5kOQP6in7244lhAh06A+lpAkyeJiPpvt3rNFSI8M3nYr13uVMFbn87/msYRPkhLHEiJk2giC6PFoBSAo8IjI/Er3WKUDDFgImRJRHZy9YqizohUeTPLsFf2sq/jfrmwFBiyETAnTFia9Yg5Dc+APAv586kx40R0h1L0UCi3PDu0aDFgIoW705585u3+Ira6u0svaMGAhZJIuZ198+LBaOZ1y8vdWt/sF3OnOTJazX7wRvNHr5o3rw4f7JP689+zZU7qvDQMWQibJ2sY6esNqkiQzTqVcuZJNEC0XtoozYJVQVCbMnJLB5YFyPI3mO7suaHmFl9rbveI4kbz0SOV4HQE3ntf1ctJotL79+nNWRNBpjJivt5WW3tFlqzFgIWSSRowY5en5fNz//rt7d+y6qM/UF7ku9UxzZk7XHNx3Y3MMcKcms8KBy4WD2VfVP+6K44OgyI0rCkrlZMGNzYUzvvIPXO5RwAPg7cp300dXhgm+fi4uQ7IunddlJRiwEDJVnBUROZcvRkd/0eZxyYFfCUVcWLSjQH2mdzQ33NXVKzoi3JXt6QIe6h89AIozti3wZX5zy0v5si8AcJ0CfF463yNC93j1z/W8rVs2uLLd54bO12U9GLAQMlVUKvXHvb8MGz5SYz5vDZPlzJy4CUaNyl/gzGT5ri98grWp3u7VMos9DWK2wRSdXk6hUMjT004UFuVHrd80atTLuqwKcGgOQqZibqT8cJpi9QLxJ4t7UXqopcGPX5MyZWe4LkObJRJJWVmJu7unxvwnHppDXsnrfa+KoRyagy0shEyDtSUAwCMR/dxf9frr2NQBfnzwIliuU7QCAAsLi7bR6gkRQJBAPHhIh8ebjy0shEzDrkMKzla5JQPCZkv72MlkPRGzutGDhwp+uaSDBAoFKZUTBQLb+9WMAU4g5NEJAgMWQiaioRF8QmSFJSQAAEFSzGJ8TodIhaL5FPDHLdQFMymALSyETMi/98gPtyvSLirqxYYuSk9xH0x8tpzyzjSKsp8ZBiyETIxcAQ9rDF2IHmHBAKZNqzkYsBBCJuP/AdjDMz4Y79nzAAAAAElFTkSuQmCC"
 #!   ARCGIS_COMPATIBILITY="ARCGIS_AUTO"
 #!   ATTR_TYPE_ENCODING="SDF"
 #!   BEGIN_PYTHON=""
+#!   BEGIN_PYTHON_DATA_CACHING="No"
 #!   BEGIN_TCL=""
 #!   CATEGORY=""
 #!   DESCRIPTION=""
 #!   DESTINATION="NONE"
 #!   DESTINATION_ROUTING_FILE=""
-#!   DOC_EXTENTS="1737.12 65"
-#!   DOC_TOP_LEFT="484.38 -521.255"
+#!   DOC_EXTENTS="2111.02 568.13"
+#!   DOC_TOP_LEFT="484.38 -1024.38"
+#!   ENABLE_DATA_CACHING="Yes"
+#!   ENABLE_FEATURE_COUNTING="Yes"
+#!   ENABLE_PERFORMANCE_PROFILING="No"
 #!   END_PYTHON=""
+#!   END_PYTHON_DATA_CACHING="No"
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
-#!   FME_BUILD_NUM="24624"
+#!   FME_BUILD_NUM="25609"
 #!   FME_BULK_MODE_THRESHOLD="2000"
-#!   FME_DOCUMENT_GUID="ac0dc661-b076-402f-b701-8131d6228a2e"
-#!   FME_DOCUMENT_PRIORGUID=""
+#!   FME_DOCUMENT_GUID="1a7ea173-864b-4807-b112-ab25588d46a4"
+#!   FME_DOCUMENT_PRIORGUID="ac0dc661-b076-402f-b701-8131d6228a2e"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_NAMES_ENCODING="UTF-8"
@@ -30,8 +35,8 @@
 #!   FME_STROKE_MAX_DEVIATION="0"
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
-#!   LAST_SAVE_BUILD="FME(R) 2024.1.2.1 (20240906 - Build 24624 - WIN64)"
-#!   LAST_SAVE_DATE="2025-03-15T19:52:34"
+#!   LAST_SAVE_BUILD="FME(R) 2025.1.0.1 (20250710 - Build 25609 - WIN64)"
+#!   LAST_SAVE_DATE="2026-01-14T13:34:44"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -39,6 +44,7 @@
 #!   MAX_LOG_FEATURES="200"
 #!   MULTI_WRITER_DATASET_ORDER="BY_ID"
 #!   PASSWORD=""
+#!   PROMPT_FOR_PARAMS="Yes"
 #!   PYTHON_COMPATIBILITY="312"
 #!   REDIRECT_TERMINATORS="NONE"
 #!   SAVE_ON_PROMPT_AND_RUN="Yes"
@@ -46,11 +52,12 @@
 #!   SHOW_INFO_NODES="true"
 #!   SOURCE="NONE"
 #!   SOURCE_ROUTING_FILE=""
+#!   STOP_AT_BREAKPOINTS="No"
 #!   TERMINATE_REJECTED="YES"
 #!   TITLE=""
 #!   USAGE=""
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="-240.627 -56.2506"
+#!   VIEW_POSITION="521.88 -56.2506"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
 #!   ZOOM_SCALE="100"
@@ -64,6 +71,13 @@
 #! <FEATURE_TYPES>
 #! </FEATURE_TYPES>
 #! <FMESERVER>
+#! <WRITER_DATASETS>
+#! <DATASET
+#!   NAME="FeatureWriter"
+#!   OVERRIDE="--FeatureWriterDataset_FeatureWriter"
+#!   DATASET="FeatureWriter/Output"
+#! />
+#! </WRITER_DATASETS>
 #! </FMESERVER>
 #! <GLOBAL_PARAMETERS>
 #! </GLOBAL_PARAMETERS>
@@ -143,32 +157,60 @@
 #! >
 #!     <OUTPUT_FEAT NAME="OUTPUT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_PARM PARM_NAME="ANNOTATION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ANNOTATION_X_OFFSET" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ANNOTATION_Y_OFFSET" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="AXES_FONT" PARM_VALUE="Arial&lt;comma&gt;12"/>
 #!     <XFORM_PARM PARM_NAME="AXES_LW" PARM_VALUE="0.5"/>
 #!     <XFORM_PARM PARM_NAME="AXES_OPTIONS" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <XFORM_PARM PARM_NAME="BACKGROUND_COLOR" PARM_VALUE="1&lt;comma&gt;1&lt;comma&gt;1"/>
-#!     <XFORM_PARM PARM_NAME="CHART_SETUP" PARM_VALUE="SUMMARY_DATA;_random_number;NUM_BINS;20;COLOR;0,0,1;TREND_LINE;NO;FME_CONTROLLER_QUERY_FILE;transformers&lt;solidus&gt;dependencies&lt;solidus&gt;charter&lt;solidus&gt;Histogram.fme;FME_CONTROLLER_CHOICE;Histogram"/>
+#!     <XFORM_PARM PARM_NAME="BAR_ORIENTATION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="BAR_STACKING" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="BAR_WIDTH" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CHART_SETUP" PARM_VALUE="SUMMARY_DATA;_random_number;NUM_BINS;20;COLOR;0&lt;comma&gt;0&lt;comma&gt;1;TREND_LINE;NO;TREND_LINE_Histogram;NO"/>
 #!     <XFORM_PARM PARM_NAME="CHART_TITLE" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="CHART_TYPE" PARM_VALUE="Histogram"/>
-#!     <XFORM_PARM PARM_NAME="DATA_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="COLOR" PARM_VALUE="0,0,1"/>
+#!     <XFORM_PARM PARM_NAME="COLOR_SCHEME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="DATAATT" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="DATA_SERIES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DISCRETE_X" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="DISCRETE_Y" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="DPI" PARM_VALUE="300"/>
+#!     <XFORM_PARM PARM_NAME="EATT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="EFFECTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="FILL_AREA" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="GENERAL_OPTIONS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="GROUP_BY_MODE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="GROUP_PROCESSING_GROUP" PARM_VALUE="NO"/>
 #!     <XFORM_PARM PARM_NAME="HIDDENGROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="INTERPRETATION" PARM_VALUE="RGBA32"/>
+#!     <XFORM_PARM PARM_NAME="LABATT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LABEL_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="LEGEND" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="LEGEND_FONT" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="LEGEND_OPTIONS" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="LINEWEIGHT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LINE_STYLE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="MULTI_DS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NUM_BINS" PARM_VALUE="20"/>
 #!     <XFORM_PARM PARM_NAME="OUTPUT_OPTIONS" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#!     <XFORM_PARM PARM_NAME="PCTLABELS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="POINT_SIZE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="POINT_STYLE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="POINT_STYLE_Line" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="POINT_STYLE_Scatter" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="STYLE_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#!     <XFORM_PARM PARM_NAME="SUMMARY_DATA" PARM_VALUE="_random_number"/>
 #!     <XFORM_PARM PARM_NAME="TICKS" PARM_VALUE="T"/>
 #!     <XFORM_PARM PARM_NAME="TICK_FONT" PARM_VALUE="Arial&lt;comma&gt;10"/>
 #!     <XFORM_PARM PARM_NAME="TITLE_FONT" PARM_VALUE="Arial&lt;comma&gt;12"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TREND_LINE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="TREND_LINE_Histogram" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="TREND_LINE_Scatter" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XATT" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="XAXES_OPTIONS" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ChartGenerator"/>
 #!     <XFORM_PARM PARM_NAME="XTICK_INTERVAL" PARM_VALUE=""/>
@@ -178,6 +220,7 @@
 #!     <XFORM_PARM PARM_NAME="X_LOG" PARM_VALUE="LIN"/>
 #!     <XFORM_PARM PARM_NAME="X_MAX" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="X_MIN" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="YATT" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="YAXES_OPTIONS" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <XFORM_PARM PARM_NAME="YTICK_INTERVAL" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="Y_INCH" PARM_VALUE="2.0"/>
@@ -187,6 +230,53 @@
 #!     <XFORM_PARM PARM_NAME="Y_MAX" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="Y_MIN" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="INTERPRETATION_TYPE_LOOKUP" PARM_IS_LOOKUP="true" PARM_VALUE="RGBA32"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="6"
+#!   TYPE="FeatureWriter"
+#!   VERSION="0"
+#!   POSITION="2159.3965939659397 -959.38459384593841"
+#!   BOUNDING_RECT="2159.3965939659397 -959.38459384593841 436 65"
+#!   ORDER="500000000000005"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="25609"
+#! >
+#!     <OUTPUT_FEAT NAME="SUMMARY"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_feature_types{}.count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_feature_types{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_dataset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_total_features_written" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DATASET" PARM_VALUE="C:&lt;backslash&gt;FMEData&lt;backslash&gt;Output"/>
+#!     <XFORM_PARM PARM_NAME="DATASET_ATTR" PARM_VALUE="_dataset"/>
+#!     <XFORM_PARM PARM_NAME="DYNGROUP_0" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FEATURE_TYPES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FEATURE_TYPE_LIST_ATTR" PARM_VALUE="_feature_types"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT" PARM_VALUE="PNGRASTER"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_DIRECTIVES" PARM_VALUE="RUNTIME_MACROS,FORMAT_ATTRIBUTES_OVERRIDE_FEATURE_TYPE_PARAMETERS&lt;comma&gt;No&lt;comma&gt;COORDINATE_SYSTEM_GRANULARITY&lt;comma&gt;FEATURE,METAFILE,PNGRASTER"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_PARAMS" PARM_VALUE="PNGRASTER_FORMAT_ATTRIBUTES_OVERRIDE_FEATURE_TYPE_PARAMETERS,&quot;OPTIONAL NO_EDIT TEXT&quot;,PNGRASTER&lt;space&gt;,PNGRASTER_COORDINATE_SYSTEM_GRANULARITY,&quot;OPTIONAL NO_EDIT TEXT&quot;,PNGRASTER&lt;space&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY_MODE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_PROCESSING_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="MORE_SUMMARY_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="NO_OUTPUT_PORTS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUTPORTS_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_PORTS" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_PORTS_MODE" PARM_VALUE="NO_OUTPUT_PORTS"/>
+#!     <XFORM_PARM PARM_NAME="PER_EACH_INPUT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PNGRASTER_COORDINATE_SYSTEM_GRANULARITY" PARM_VALUE="FEATURE"/>
+#!     <XFORM_PARM PARM_NAME="PNGRASTER_FORMAT_ATTRIBUTES_OVERRIDE_FEATURE_TYPE_PARAMETERS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="SELECTED_PORTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUMMARY_ATTRS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TOTAL_FEATURES_WRITTEN_ATTR" PARM_VALUE="_total_features_written"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WRITER_DIRECTIVES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WRITER_FEATURE_TYPE_PARAMS" PARM_VALUE="Histogram:Output,ftp_feature_type_name,Histogram,ftp_writer,PNGRASTER,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,&lt;lt&gt;lt&lt;gt&gt;Unused&lt;lt&gt;gt&lt;gt&gt;,ftp_attribute_source,0,ftp_format_parameters,pngraster_layer_group&lt;comma&gt;&lt;comma&gt;pngraster_world_file_generation&lt;comma&gt;no&lt;comma&gt;pngraster_tab_file_generation&lt;comma&gt;no&lt;comma&gt;pngraster_optimize&lt;comma&gt;No_optimization"/>
+#!     <XFORM_PARM PARM_NAME="WRITER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WRITER_METAFILE" PARM_VALUE="ATTRIBUTE_CASE,ANY_FIRST_NONNUMERIC,ATTRIBUTE_INVALID_CHARS,&lt;quote&gt;&lt;space&gt;&lt;openparen&gt;&lt;closeparen&gt;,ATTRIBUTE_LENGTH,64,ATTR_TYPE_MAP,char&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_varchar&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;char&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_varbinary&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;char&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_char&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;char&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_binary&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;char&lt;openparen&gt;254&lt;closeparen&gt;&lt;comma&gt;fme_buffer&lt;comma&gt;char&lt;openparen&gt;254&lt;closeparen&gt;&lt;comma&gt;fme_binarybuffer&lt;comma&gt;char&lt;openparen&gt;254&lt;closeparen&gt;&lt;comma&gt;fme_xml&lt;comma&gt;char&lt;openparen&gt;254&lt;closeparen&gt;&lt;comma&gt;fme_json&lt;comma&gt;datetime&lt;comma&gt;fme_datetime&lt;comma&gt;time&lt;comma&gt;fme_time&lt;comma&gt;date&lt;comma&gt;fme_date&lt;comma&gt;&lt;quote&gt;decimal&lt;openparen&gt;width&lt;comma&gt;decimal&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;quote&gt;fme_decimal&lt;openparen&gt;width&lt;comma&gt;decimal&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;float&lt;comma&gt;fme_real64&lt;comma&gt;float&lt;comma&gt;fme_real32&lt;comma&gt;integer&lt;comma&gt;fme_int32&lt;comma&gt;largeint&lt;comma&gt;fme_int64&lt;comma&gt;&lt;quote&gt;decimal&lt;openparen&gt;20&lt;comma&gt;0&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;fme_uint64&lt;comma&gt;largeint&lt;comma&gt;fme_uint32&lt;comma&gt;logical&lt;comma&gt;fme_boolean&lt;comma&gt;smallint&lt;comma&gt;fme_int16&lt;comma&gt;integer&lt;comma&gt;fme_uint16&lt;comma&gt;smallint&lt;comma&gt;fme_int8&lt;comma&gt;smallint&lt;comma&gt;fme_uint8,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,&lt;quote&gt;:?*&lt;lt&gt;&lt;gt&gt;&lt;pipe&gt;,FEATURE_TYPE_LENGTH,0,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile&lt;backslash&gt;PNGRASTER.fmf,FORMAT_NAME,PNGRASTER,GEOM_MAP,pngraster_raster&lt;comma&gt;fme_raster&lt;comma&gt;pngraster_none&lt;comma&gt;fme_no_geom&lt;comma&gt;fme_no_map&lt;comma&gt;fme_point&lt;comma&gt;fme_no_map&lt;comma&gt;fme_text&lt;comma&gt;fme_no_map&lt;comma&gt;fme_line&lt;comma&gt;fme_no_map&lt;comma&gt;fme_arc&lt;comma&gt;fme_no_map&lt;comma&gt;fme_polygon&lt;comma&gt;fme_no_map&lt;comma&gt;fme_ellipse&lt;comma&gt;fme_no_map&lt;comma&gt;fme_rectangle&lt;comma&gt;fme_no_map&lt;comma&gt;fme_rounded_rectangle&lt;comma&gt;fme_no_map&lt;comma&gt;fme_no_geom&lt;comma&gt;fme_no_map&lt;comma&gt;fme_surface&lt;comma&gt;fme_no_map&lt;comma&gt;fme_solid&lt;comma&gt;fme_no_map&lt;comma&gt;fme_point_cloud&lt;comma&gt;fme_no_map&lt;comma&gt;fme_voxel_grid&lt;comma&gt;pngraster_none&lt;comma&gt;fme_collection,READER_ATTR_INDEX_TYPES,,READER_FORMAT_TYPE,,READER_USES_DEF,yes,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,PNGRASTER,WRITER_ATTR_INDEX_TYPES,,WRITER_DEFLINE_PARMS,&lt;quote&gt;GUI&lt;space&gt;NAMEDGROUP&lt;space&gt;pngraster_layer_group&lt;space&gt;pngraster_world_file_generation%pngraster_tab_file_generation%pngraster_optimize&lt;space&gt;&lt;space&gt;Raster&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;CHOICE_OR_ATTR&lt;space&gt;pngraster_world_file_generation&lt;space&gt;yes%no&lt;space&gt;World&lt;space&gt;File&lt;space&gt;Generation&lt;quote&gt;&lt;comma&gt;yes&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;CHOICE_OR_ATTR&lt;space&gt;pngraster_tab_file_generation&lt;space&gt;yes%no&lt;space&gt;TAB&lt;space&gt;File&lt;space&gt;Generation&lt;quote&gt;&lt;comma&gt;no&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;CHOICE_OR_ATTR&lt;space&gt;pngraster_optimize&lt;space&gt;No_optimization%Level_1_&lt;openparen&gt;recommended&lt;closeparen&gt;%Level_2%Level_3%Level_4%Level_5%Level_6%Level_7_&lt;openparen&gt;slow&lt;closeparen&gt;&lt;space&gt;PNG&lt;space&gt;Optimization&lt;space&gt;Level&lt;space&gt;&lt;openparen&gt;reduces&lt;space&gt;file&lt;space&gt;size&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;No_optimization,WRITER_DEF_LINE_TEMPLATE,&lt;opencurly&gt;FME_GEN_GROUP_NAME&lt;closecurly&gt;&lt;comma&gt;pngraster_world_file_generation&lt;comma&gt;&lt;dollar&gt;&lt;openbracket&gt;_PNGRASTER_WRITER_WORLD_FILE_GENERATION&lt;closebracket&gt;&lt;comma&gt;pngraster_tab_file_generation&lt;comma&gt;&lt;dollar&gt;&lt;openbracket&gt;_PNGRASTER_WRITER_TAB_FILE_GENERATION&lt;closebracket&gt;&lt;comma&gt;pngraster_optimize&lt;comma&gt;&lt;dollar&gt;&lt;openbracket&gt;_PNGRASTER_WRITER_OPTIMIZE&lt;closebracket&gt;,WRITER_FORMAT_PARAMETER,AUTO_FANOUT_ATTRIBUTE&lt;comma&gt;fme_basename&lt;comma&gt;READER_AUTO_EXPOSE&lt;comma&gt;&lt;quote&gt;fme_basename&lt;space&gt;char&lt;openparen&gt;50&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;MIME_TYPE&lt;comma&gt;image&lt;solidus&gt;PNG&lt;comma&gt;ADVANCED_PARMS&lt;comma&gt;PNGRASTER_IN_SCALE_COLOR_TO_STANDARD_BIT_DEPTH&lt;comma&gt;FEATURE_TYPE_NAME&lt;comma&gt;&lt;quote&gt;Raster&lt;space&gt;File&lt;quote&gt;&lt;comma&gt;FEATURE_TYPE_DEFAULT_NAME&lt;comma&gt;Raster1&lt;comma&gt;READER_DATASET_HINT&lt;comma&gt;&lt;quote&gt;Select&lt;space&gt;the&lt;space&gt;PNG&lt;space&gt;raster&lt;space&gt;file&lt;openparen&gt;s&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;WRITER_DATASET_HINT&lt;comma&gt;&lt;quote&gt;Specify&lt;space&gt;a&lt;space&gt;folder&lt;space&gt;for&lt;space&gt;the&lt;space&gt;PNG&lt;space&gt;raster&lt;space&gt;file&lt;quote&gt;,WRITER_FORMAT_TYPE,,WRITER_HAS_DEFLINE_ATTRS,yes,WRITER_USES_DEF,yes"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureWriter"/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -199,7 +289,7 @@
 #!   ENABLED="true"
 #!   EXECUTION_IDX="0"
 #!   HIDDEN="false"
-#!   COLOUR="0.95686274509803926,0.95294117647058818,0.92941176470588238,1"
+#!   COLOUR="0.050980392156862744,0.050980392156862744,0.047058823529411764,1"
 #!   PEN_WIDTH="4"
 #!   PEN_STYLE="1"
 #!   LINK_STYLE_NAME="&lt;Default&gt;"
@@ -214,7 +304,22 @@
 #!   ENABLED="true"
 #!   EXECUTION_IDX="0"
 #!   HIDDEN="false"
-#!   COLOUR="0.95686274509803926,0.95294117647058818,0.92941176470588238,1"
+#!   COLOUR="0.050980392156862744,0.050980392156862744,0.047058823529411764,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="8"
+#!   SOURCE_NODE="7"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 Output"
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.050980392156862744,0.050980392156862744,0.047058823529411764,1"
 #!   PEN_WIDTH="4"
 #!   PEN_STYLE="1"
 #!   LINK_STYLE_NAME="&lt;Default&gt;"
@@ -244,9 +349,8 @@ MULTI_DEST_DATASET null
 #! END_WB_HEADER
 #! END_HEADER
 
-LOG_FILENAME "$(FME_MF_DIR)CreateHistogram.log"
+LOG_FILENAME "$(FME_MF_DIR)$(WORKSPACE_NAME).log"
 LOG_APPEND NO
-LOG_TIMINGS YES
 LOG_MAX_FEATURES 200
 LOG_MAX_RECORDED_FEATURES 200
 FME_REPROJECTION_ENGINE FME
@@ -255,14 +359,13 @@ FME_GEOMETRY_HANDLING Enhanced
 FME_STROKE_MAX_DEVIATION 0
 FME_NAMES_ENCODING UTF-8
 FME_BULK_MODE_THRESHOLD 2000
-LAST_SAVE_BUILD "FME 2024.1.2.1 (20240906 - Build 24624 - WIN64)"
+LAST_SAVE_BUILD "FME 2025.1.0.1 (20250710 - Build 25609 - WIN64)"
 # -------------------------------------------------------------------------
 
 MULTI_READER_CONTINUE_ON_READER_FAILURE No
 
 # -------------------------------------------------------------------------
 
-MACRO WORKSPACE_NAME CreateHistogram
 MACRO FME_VIEWER_APP fmedatainspector
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
@@ -284,8 +387,11 @@ FACTORY_DEF {*} TestFactory    FACTORY_NAME { RandomNumberGenerator_MaxRejecter 
 FACTORY_DEF {*} TestFactory    FACTORY_NAME { RandomNumberGenerator_PlacesRejecter }    INPUT { FEATURE_TYPE RandomNumberGenerator__toPlacesRejecter__ }    TEST { "0" TYPE INT ENCODED }    PRESERVE_FEATURE_ORDER PER_OUTPUT_PORT    OUTPUT { PASSED FEATURE_TYPE RandomNumberGenerator__toOutput__ }
 FACTORY_DEF {*} TeeFactory    FACTORY_NAME { RandomNumberGenerator_RandomNumberGenerator }    INPUT { FEATURE_TYPE RandomNumberGenerator__toOutput__ }    OUTPUT { FEATURE_TYPE RandomNumberGenerator_OUTPUT         @Tcl2("RandomNumberGenerator_generator {1} {20} {0} ")          }
 # -------------------------------------------------------------------------
-FACTORY_DEF {*} TeeFactory    INPUT  FEATURE_TYPE RandomNumberGenerator_OUTPUT    OUTPUT { FEATURE_TYPE ChartGenerator_PROCESSED       fme_cg_chart_type "Histogram"       fme_cg_chart_title ""       fme_cg_chart_setup "SUMMARY_DATA;_random_number;NUM_BINS;20;COLOR;0,0,1;TREND_LINE;NO"       fme_cg_x_label ""       fme_cg_y_label ""       fme_cg_multi_ds "<Unused>"       fme_cg_legend "<Unused>"       fme_cg_legend_options "NO"       fme_cg_x_min ""       fme_cg_y_min ""       fme_cg_x_max ""       fme_cg_y_max ""       fme_cg_axes_lw "0.5"       fme_cg_axes_font "Arial<comma>12"       fme_cg_title_font "Arial<comma>12"       fme_cg_legend_font "<Unused>"       fme_cg_tick_font "Arial<comma>10"       fme_cg_background_color "1<comma>1<comma>1"       fme_cg_ticks "T"       fme_cg_x_log "LIN"       fme_cg_y_log "LIN"       fme_cg_x_label_angle "Horizontal<space><openparen>0<closeparen>"       fme_cg_y_label_angle "Horizontal<space><openparen>0<closeparen>"       fme_cg_data_series ""       fme_cg_xtick_interval ""       fme_cg_ytick_interval ""       fme_cg_x_inch   "2.0"       fme_cg_y_inch  "2.0"       fme_cg_dpi "300" }
-FACTORY_DEF {*} PythonFactory    FACTORY_NAME { ChartGenerator }    FLUSH_WHEN_GROUPS_CHANGE { <Unused> }    INPUT { FEATURE_TYPE ChartGenerator_PROCESSED }    SYMBOL_NAME chartgenerator.ChartGenerator
+FACTORY_DEF {*} TeeFactory    INPUT  FEATURE_TYPE RandomNumberGenerator_OUTPUT    OUTPUT { FEATURE_TYPE ChartGenerator_PROCESSED       fme_cg_chart_type "Histogram"       fme_cg_chart_title ""       fme_cg_chart_setup "SUMMARY_DATA;_random_number;NUM_BINS;20;COLOR;0,0,1;TREND_LINE;NO;TREND_LINE_Histogram;NO"       fme_cg_x_label ""       fme_cg_y_label ""       fme_cg_multi_ds "<Unused>"       fme_cg_legend "<Unused>"       fme_cg_legend_options "NO"       fme_cg_x_min ""       fme_cg_y_min ""       fme_cg_x_max ""       fme_cg_y_max ""       fme_cg_axes_lw "0.5"       fme_cg_axes_font "Arial<comma>12"       fme_cg_title_font "Arial<comma>12"       fme_cg_legend_font "<Unused>"       fme_cg_tick_font "Arial<comma>10"       fme_cg_background_color "1<comma>1<comma>1"       fme_cg_ticks "T"       fme_cg_x_log "LIN"       fme_cg_y_log "LIN"       fme_cg_x_label_angle "Horizontal<space><openparen>0<closeparen>"       fme_cg_y_label_angle "Horizontal<space><openparen>0<closeparen>"       fme_cg_data_series ""       fme_cg_xtick_interval ""       fme_cg_ytick_interval ""       fme_cg_x_inch   "2.0"       fme_cg_y_inch  "2.0"       fme_cg_dpi "300" }
+FACTORY_DEF {*} PythonFactory    FACTORY_NAME { ChartGenerator }    FLUSH_WHEN_GROUPS_CHANGE { <Unused> }    INPUT { FEATURE_TYPE ChartGenerator_PROCESSED }    SYMBOL_NAME chartgenerator.ChartGenerator    OUTPUT { PYOUTPUT FEATURE_TYPE ChartGenerator_OUTPUT       @RemoveAttributes(fme_cg_chart_type,fme_cg_chart_title,fme_cg_chart_setup,fme_cg_x_label,fme_cg_y_label,fme_cg_x_size,fme_cg_y_size,fme_cg_group_by,          fme_cg_multi_ds,fme_cg_legend,fme_cg_x_min,fme_cg_y_min,fme_cg_x_max,fme_cg_y_max,fme_cg_axes_lw,fme_cg_axes_font,fme_cg_title_font,fme_cg_legend_font,          fme_cg_tick_font,fme_cg_background_color,fme_cg_ticks,fme_cg_x_log,fme_cg_y_log,fme_cg_x_label_angle,fme_cg_y_label_angle,fme_cg_data_series,fme_cg_xtick_interval,fme_cg_ytick_interval,          fme_cg_out_scheme,fme_cg_x_inch,fme_cg_y_inch,fme_cg_dpi)       @ReinterpretRaster(RASTER,RGBA32,AVERAGE,DROPALPHA,TYPESCALE,BOUNDED_CAST,DATASCALE,BOUNDED_CAST,ROUND,CREATEOPAQUEALPHA)        }
+# -------------------------------------------------------------------------
+INCLUDE [    puts {DEFAULT_MACRO FeatureWriterDataset_FeatureWriter C:<backslash>FMEData<backslash>Output}; ]
+FACTORY_DEF {*} WriterFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FEATURE_TABLE_SHIM_SUPPORT INPUT_SPEC_ONLY    FLUSH_WHEN_GROUPS_CHANGE { <Unused> }    FACTORY_NAME { FeatureWriter }    WRITER_TYPE { PNGRASTER }    WRITER_DATASET { "$(FeatureWriterDataset_FeatureWriter)" }    WRITER_SETTINGS { "RUNTIME_MACROS,FORMAT_ATTRIBUTES_OVERRIDE_FEATURE_TYPE_PARAMETERS<comma>No<comma>COORDINATE_SYSTEM_GRANULARITY<comma>FEATURE,METAFILE,PNGRASTER" }    WRITER_METAFILE { "ATTRIBUTE_CASE,ANY_FIRST_NONNUMERIC,ATTRIBUTE_INVALID_CHARS,<quote><space><openparen><closeparen>,ATTRIBUTE_LENGTH,64,ATTR_TYPE_MAP,char<openparen>width<closeparen><comma>fme_varchar<openparen>width<closeparen><comma>char<openparen>width<closeparen><comma>fme_varbinary<openparen>width<closeparen><comma>char<openparen>width<closeparen><comma>fme_char<openparen>width<closeparen><comma>char<openparen>width<closeparen><comma>fme_binary<openparen>width<closeparen><comma>char<openparen>254<closeparen><comma>fme_buffer<comma>char<openparen>254<closeparen><comma>fme_binarybuffer<comma>char<openparen>254<closeparen><comma>fme_xml<comma>char<openparen>254<closeparen><comma>fme_json<comma>datetime<comma>fme_datetime<comma>time<comma>fme_time<comma>date<comma>fme_date<comma><quote>decimal<openparen>width<comma>decimal<closeparen><quote><comma><quote>fme_decimal<openparen>width<comma>decimal<closeparen><quote><comma>float<comma>fme_real64<comma>float<comma>fme_real32<comma>integer<comma>fme_int32<comma>largeint<comma>fme_int64<comma><quote>decimal<openparen>20<comma>0<closeparen><quote><comma>fme_uint64<comma>largeint<comma>fme_uint32<comma>logical<comma>fme_boolean<comma>smallint<comma>fme_int16<comma>integer<comma>fme_uint16<comma>smallint<comma>fme_int8<comma>smallint<comma>fme_uint8,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,<quote>:?*<lt><gt><pipe>,FEATURE_TYPE_LENGTH,0,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile<backslash>PNGRASTER.fmf,FORMAT_NAME,PNGRASTER,GEOM_MAP,pngraster_raster<comma>fme_raster<comma>pngraster_none<comma>fme_no_geom<comma>fme_no_map<comma>fme_point<comma>fme_no_map<comma>fme_text<comma>fme_no_map<comma>fme_line<comma>fme_no_map<comma>fme_arc<comma>fme_no_map<comma>fme_polygon<comma>fme_no_map<comma>fme_ellipse<comma>fme_no_map<comma>fme_rectangle<comma>fme_no_map<comma>fme_rounded_rectangle<comma>fme_no_map<comma>fme_no_geom<comma>fme_no_map<comma>fme_surface<comma>fme_no_map<comma>fme_solid<comma>fme_no_map<comma>fme_point_cloud<comma>fme_no_map<comma>fme_voxel_grid<comma>pngraster_none<comma>fme_collection,READER_ATTR_INDEX_TYPES,,READER_FORMAT_TYPE,,READER_USES_DEF,yes,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,PNGRASTER,WRITER_ATTR_INDEX_TYPES,,WRITER_DEFLINE_PARMS,<quote>GUI<space>NAMEDGROUP<space>pngraster_layer_group<space>pngraster_world_file_generation%pngraster_tab_file_generation%pngraster_optimize<space><space>Raster<quote><comma><comma><quote>GUI<space>CHOICE_OR_ATTR<space>pngraster_world_file_generation<space>yes%no<space>World<space>File<space>Generation<quote><comma>yes<comma><quote>GUI<space>CHOICE_OR_ATTR<space>pngraster_tab_file_generation<space>yes%no<space>TAB<space>File<space>Generation<quote><comma>no<comma><quote>GUI<space>CHOICE_OR_ATTR<space>pngraster_optimize<space>No_optimization%Level_1_<openparen>recommended<closeparen>%Level_2%Level_3%Level_4%Level_5%Level_6%Level_7_<openparen>slow<closeparen><space>PNG<space>Optimization<space>Level<space><openparen>reduces<space>file<space>size<closeparen><quote><comma>No_optimization,WRITER_DEF_LINE_TEMPLATE,<opencurly>FME_GEN_GROUP_NAME<closecurly><comma>pngraster_world_file_generation<comma><dollar><openbracket>_PNGRASTER_WRITER_WORLD_FILE_GENERATION<closebracket><comma>pngraster_tab_file_generation<comma><dollar><openbracket>_PNGRASTER_WRITER_TAB_FILE_GENERATION<closebracket><comma>pngraster_optimize<comma><dollar><openbracket>_PNGRASTER_WRITER_OPTIMIZE<closebracket>,WRITER_FORMAT_PARAMETER,AUTO_FANOUT_ATTRIBUTE<comma>fme_basename<comma>READER_AUTO_EXPOSE<comma><quote>fme_basename<space>char<openparen>50<closeparen><quote><comma>MIME_TYPE<comma>image<solidus>PNG<comma>ADVANCED_PARMS<comma>PNGRASTER_IN_SCALE_COLOR_TO_STANDARD_BIT_DEPTH<comma>FEATURE_TYPE_NAME<comma><quote>Raster<space>File<quote><comma>FEATURE_TYPE_DEFAULT_NAME<comma>Raster1<comma>READER_DATASET_HINT<comma><quote>Select<space>the<space>PNG<space>raster<space>file<openparen>s<closeparen><quote><comma>WRITER_DATASET_HINT<comma><quote>Specify<space>a<space>folder<space>for<space>the<space>PNG<space>raster<space>file<quote>,WRITER_FORMAT_TYPE,,WRITER_HAS_DEFLINE_ATTRS,yes,WRITER_USES_DEF,yes" }    WRITER_FEATURE_TYPES { "Histogram:Output,ftp_feature_type_name,Histogram,ftp_writer,PNGRASTER,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,<lt>lt<gt>Unused<lt>gt<gt>,ftp_attribute_source,0,ftp_format_parameters,pngraster_layer_group<comma><comma>pngraster_world_file_generation<comma>no<comma>pngraster_tab_file_generation<comma>no<comma>pngraster_optimize<comma>No_optimization" }    WRITER_PARAMS { "COORDINATE_SYSTEM_GRANULARITY,FEATURE,FORMAT_ATTRIBUTES_OVERRIDE_FEATURE_TYPE_PARAMETERS,No" }    DATASET_ATTR { "_dataset" }    FEATURE_TYPE_LIST_ATTR { "_feature_types" }    TOTAL_FEATURES_WRITTEN_ATTR { "_total_features_written" }    OUTPUT_PORTS { "" }    INPUT Output FEATURE_TYPE ChartGenerator_OUTPUT  @FeatureType(ENCODED,@EvaluateExpression(FDIV,STRING_ENCODED,Histogram,FeatureWriter))
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
